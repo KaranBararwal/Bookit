@@ -62,7 +62,7 @@ const RoomPage = async ({params}) => {
                 ${room.price_per_hour}/hour
               </li>
               <li>
-                <span className="font-semibold text-gray-800">Address:</span> 555
+                <span className="font-semibold text-gray-800">Address:</span>
                 {room.address}
               </li>
             </ul>
